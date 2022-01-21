@@ -23,25 +23,25 @@ If you removed our PR template you can find it [here](https://github.com/crisgar
 
 ## Quality standards
 
-To be on the list, project repositories should adhere to these quality standards (https://goreportcard.com/report/github.com/ **github_user** / **github_repo**):
+To be on the list, project repositories should adhere to these quality standards:
 
 - Code functions as documented and expected
-- Generally useful to the wider community of Go programmers
+- Generally useful to the wider community of solidity programmers
 - Actively maintained
     - Regular, recent commits
     - Or, for finished projects, issues and pull requests are responded to
 - Stable or progressing toward stable
-- Thoroughly documented (README, pkg.go.dev doc comments, etc.) in english language, so everyone is able to understand the project's intention and how it works
+- Thoroughly documented (README, doc comments, etc.) in english language, so everyone is able to understand the project's intention and how it works
 - Tests, where practical. If the library/program is testable, then coverage should be >= 80% for non-data-related packages and >=90% for data related packages. **Notice**: the tests will be reviewed too. We will check your coverage manually if your package's coverage is just a benchmark results.
 
 ## Congrats, your project got accepted - what now?
 You are an awesome project now! Feel encouraged to tell others about it by adding one of these badges:  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Mentioned in Awesome Foundry](https://awesome.re/mentioned-badge.svg)](https://github.com/crisgarner/awesome-foundry)  
+[![Mentioned in Awesome Foundry](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/crisgarner/awesome-foundry)
 
 ```md
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Mentioned in Awesome Foundry](https://awesome.re/mentioned-badge.svg)](https://github.com/crisgarner/awesome-foundry)  
+[![Mentioned in Awesome Foundry](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/crisgarner/awesome-foundry)
 ```
 
 
