@@ -22,19 +22,30 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 ### Contents
 
 - [Awesome Foundry](#awesome-foundry)
-    - [WIP](#work-in-progress)
 - [Tools](#tools)
-- [Resources](#resources)
+- [Libraries](#libraries)
+- [Tutorials](#tutorials)
+- [Projects Using Foundry](#projects-using-foundry)
 
 **[⬆ back to top](#contents)**
 
-### WIP
-WIP
+### Tools
+Frameworks, plugins and utilities.
 
-## Tools
-WIP
+- [Foundryup](https://github.com/gakonst/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 
-## Resources
-WIP
+### Libraries
+- [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
+- [Solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+
+
+### Tutorials
+
+- [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
+- [Getting Started by Forge by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9) - Extended tutorial with information about testings and logging.
+- [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
+
+### Projects Using Foundry
+- [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
 
 **[⬆ back to top](#contents)**
