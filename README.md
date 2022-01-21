@@ -8,7 +8,7 @@
 <img align="center" src="https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fkt99mFtZZ1Gl2ZbWGNI3J.png&w=3840&q=90" alt="awesome-foundry" title="awesome-foundry" />
 
 
-> A curated list of awesome Foundry resources, tutoriales, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+> A curated list of awesome Foundry resources, tutorials, tools and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing 
@@ -33,6 +33,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 Frameworks, plugins and utilities.
 
 - [Foundryup](https://github.com/gakonst/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
+- [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
 
 ### Libraries
 - [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
@@ -44,8 +45,13 @@ Frameworks, plugins and utilities.
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
 - [Getting Started by Forge by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9) - Extended tutorial with information about testings and logging.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
+- [Foundry Book](https://github.com/onbjerg/foundry-book/) - A book on all things Foundry (Work in Progress).
 
 ### Projects Using Foundry
 - [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
+- [MapleLoan](https://github.com/maple-labs/loan) -  set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
+- [Playpen](https://github.com/ZeframLou/playpen) - Set of modern, gas optimized staking pool contracts.
+- [TokenMigrator](https://github.com/ZeframLou/token-migrator) - A simple contract for migrating from an old ERC20 token to a new ERC20 token.
+- [VestedERC20](https://github.com/ZeframLou/vested-erc20)- A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
 
 **[⬆ back to top](#contents)**
