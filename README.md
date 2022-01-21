@@ -5,6 +5,8 @@
 
 [//]: # ([![Track Awesome List]&#40;https://www.trackawesomelist.com/badge.svg&#41;]&#40;https://www.trackawesomelist.com/avelino/awesome-go/&#41;)
 
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. [Install Foundry here](https://github.com/gakonst/foundry).
+
 <img align="center" src="https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fkt99mFtZZ1Gl2ZbWGNI3J.png&w=3840&q=90" alt="awesome-foundry" title="awesome-foundry" />
 
 
@@ -31,7 +33,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 
 ### Tools
 Frameworks, plugins and utilities.
-
 - [Foundryup](https://github.com/gakonst/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
 
