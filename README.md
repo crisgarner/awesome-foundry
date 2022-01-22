@@ -49,7 +49,7 @@ Solidity libraries or utilities that use Foundry.
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
-- [Getting Started by Forge by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9Z58) - Extended tutorial with information about testings and logging.
+- [Getting Started by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9Z58) - Extended tutorial with information about testings and logging.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [Foundry Book](https://github.com/onbjerg/foundry-book/) - A book on all things Foundry (Work in Progress).
 
