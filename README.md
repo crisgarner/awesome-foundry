@@ -35,6 +35,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 Frameworks, plugins and utilities for Foundry.
 - [Foundryup](https://github.com/gakonst/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
+- [Forge Template](https://github.com/FrankieIsLost/forge-template) - A template for quickly getting started with forge.
 - [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
 
 ## Libraries
