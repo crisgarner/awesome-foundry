@@ -47,7 +47,8 @@ Solidity libraries or utilities that use Foundry.
 - [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
 
 ## Tutorials
-- [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
+- [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started.
+- [Foundry: A fast Solidity contract development toolkit](https://chainstack.com/foundry-a-fast-solidity-contract-development-toolkit/) - Intro tutorial including cheatcodes and deployment.
 - [Getting Started by Forge by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9) - Extended tutorial with information about testings and logging.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [Foundry Book](https://github.com/onbjerg/foundry-book/) - A book on all things Foundry (Work in Progress).
