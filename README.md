@@ -32,27 +32,29 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 **[⬆ back to top](#contents)**
 
 ## Tools
-Frameworks, plugins and utilities.
+Frameworks, plugins and utilities for Foundry.
 - [Foundryup](https://github.com/gakonst/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
+- [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
 
 ## Libraries
-- [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
+Solidity libraries or utilities that use Foundry.
 - [Solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-
+- [Chain Claim](https://github.com/botdad/chain-claim) - Solidity lib and helper scripts for providing claim code generation and on chain verification of a claim.
+- [Playpen](https://github.com/ZeframLou/playpen) - Set of modern, gas optimized staking pool contracts.
+- [TokenMigrator](https://github.com/ZeframLou/token-migrator) - A simple contract for migrating from an old ERC20 token to a new ERC20 token.
+- [VestedERC20](https://github.com/ZeframLou/vested-erc20) - A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
+- [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
 
 ## Tutorials
-
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
 - [Getting Started by Forge by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9) - Extended tutorial with information about testings and logging.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [Foundry Book](https://github.com/onbjerg/foundry-book/) - A book on all things Foundry (Work in Progress).
 
 ## Projects Using Foundry
-- [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
-- [MapleLoan](https://github.com/maple-labs/loan) -  set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
-- [Playpen](https://github.com/ZeframLou/playpen) - Set of modern, gas optimized staking pool contracts.
-- [TokenMigrator](https://github.com/ZeframLou/token-migrator) - A simple contract for migrating from an old ERC20 token to a new ERC20 token.
-- [VestedERC20](https://github.com/ZeframLou/vested-erc20) - A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
+- [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
+- [Cryptex Finance](https://github.com/cryptexfinance/contracts) - Index token that tracks the total cryptocurrency market capitalization. (Optimism version uses Foundry tests).
+
 
 **[⬆ back to top](#contents)**
