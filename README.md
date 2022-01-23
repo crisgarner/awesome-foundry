@@ -24,10 +24,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 ## Content
 
 - [Awesome Foundry](#awesome-foundry)
-- [Tools](#tools)
-- [Libraries](#libraries)
-- [Tutorials](#tutorials)
-- [Projects Using Foundry](#projects-using-foundry)
+    - [Contributing](#contributing)
+      - [*If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
+  - [Content](#content)
+  - [Tools](#tools)
+  - [Libraries](#libraries)
+  - [Tutorials](#tutorials)
+  - [Projects Using Foundry](#projects-using-foundry)
 
 **[⬆ back to top](#contents)**
 
@@ -37,6 +40,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
 - [Forge Template](https://github.com/FrankieIsLost/forge-template) - A template for quickly getting started with forge.
 - [Forge Standard Library](https://github.com/brockelmore/forge-std/) - Collection of helpful contracts for use with forge and foundry.
+- [Forge CI](https://gist.github.com/clifton/b5ee5286bb229281fb31d7c4b15e6f31) - Simple Github Actions workflow to run forge test.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
