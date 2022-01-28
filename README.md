@@ -49,6 +49,7 @@ Solidity libraries or utilities that use Foundry.
 - [TokenMigrator](https://github.com/ZeframLou/token-migrator) - A simple contract for migrating from an old ERC20 token to a new ERC20 token.
 - [VestedERC20](https://github.com/ZeframLou/vested-erc20) - A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
 - [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
+- [RollCall](https://github.com/withtally/rollcall) - Rollup Governance Libraries.
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
