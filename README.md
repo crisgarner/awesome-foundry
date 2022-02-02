@@ -29,7 +29,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/c
 - [Tutorials](#tutorials)
 - [Projects Using Foundry](#projects-using-foundry)
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#awesome-foundry)**
 
 ## Tools
 Frameworks, plugins and utilities for Foundry.
@@ -63,4 +63,4 @@ Solidity libraries or utilities that use Foundry.
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs. 
 
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#awesome-foundry)**
