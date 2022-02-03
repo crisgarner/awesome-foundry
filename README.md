@@ -50,6 +50,7 @@ Solidity libraries or utilities that use Foundry.
 - [VestedERC20](https://github.com/ZeframLou/vested-erc20) - A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
 - [lil web3](https://github.com/m1guelpf/lil-web3/) - Small, focused, utility-based smart contracts.
 - [RollCall](https://github.com/withtally/rollcall) - Rollup Governance Libraries.
+- [Forge Optimism](https://github.com/tarrencev/forge-optimism) - Forge Optimism is a collection of helpful contracts for use with forge and foundry on Optimism.
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
