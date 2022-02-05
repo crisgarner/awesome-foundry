@@ -58,7 +58,7 @@ Solidity libraries or utilities that use Foundry.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [Foundry Book](https://onbjerg.github.io/foundry-book/) - A book on all things Foundry.
 - [Mainnet Forking](https://mirror.xyz/susheen.eth/bRCzT2QLdNINMVk8251udkfjHW_T9ascCQ1DV9hURz0) - This article teaches how to run a locally simulate a swap on Uniswap.
-- [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese 
+- [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
 
 ## Projects Using Foundry
 - [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
