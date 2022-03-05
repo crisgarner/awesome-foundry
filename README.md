@@ -40,6 +40,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge CI](https://gist.github.com/clifton/b5ee5286bb229281fb31d7c4b15e6f31) - Simple Github Actions workflow to run forge test.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
 - [Gitpod Template](https://github.com/gakonst/forge-template/blob/master/.gitpod.yml) - Gitpod configuration file.
+- [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry. 
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
@@ -58,6 +59,7 @@ Solidity libraries or utilities that use Foundry.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [Foundry Book](https://onbjerg.github.io/foundry-book/) - A book on all things Foundry.
 - [Mainnet Forking](https://mirror.xyz/susheen.eth/bRCzT2QLdNINMVk8251udkfjHW_T9ascCQ1DV9hURz0) - This article teaches how to run a locally simulate a swap on Uniswap.
+- [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) - Ethernaut puzzles solved & tested with foundry.
 - [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
 
 ## Projects Using Foundry
