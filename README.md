@@ -60,6 +60,7 @@ Solidity libraries or utilities that use Foundry.
 - [Foundry Book](https://onbjerg.github.io/foundry-book/) - A book on all things Foundry.
 - [Mainnet Forking](https://mirror.xyz/susheen.eth/bRCzT2QLdNINMVk8251udkfjHW_T9ascCQ1DV9hURz0) - This article teaches how to run a locally simulate a swap on Uniswap.
 - [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) - Ethernaut puzzles solved & tested with foundry.
+- [Damn Vulnerable Defi - Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - The Damn Vulnerable Defi CTF using Foundry.
 - [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
 
 ## Projects Using Foundry
