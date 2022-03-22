@@ -57,6 +57,7 @@ Solidity libraries or utilities that use Foundry.
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
 - [Getting Started by Wilson](https://w.mirror.xyz/mOUlpgkWA178HNUW7xR20TdbGRV6dMid7uChqxf9Z58) - Extended tutorial with information about testings and logging.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
+- [How to Foundry with Brock Elmore](https://www.youtube.com/watch?v=Rp_V7bYiTCM) - YouTube live code tutorial on how to get started with Foundry.
 - [Foundry Book](https://onbjerg.github.io/foundry-book/) - A book on all things Foundry.
 - [Mainnet Forking](https://mirror.xyz/susheen.eth/bRCzT2QLdNINMVk8251udkfjHW_T9ascCQ1DV9hURz0) - This article teaches how to run a locally simulate a swap on Uniswap.
 - [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) - Ethernaut puzzles solved & tested with foundry.
