@@ -15,7 +15,7 @@ Foundry is a blazing fast, portable and modular toolkit for Ethereum application
 
 ### Contributing 
 
-Please take a quick gander at the [contribution guidelines](https://github.com/crisgarner/awesome-foundry/blob/main/CONTRIBUTING.md) first. 
+Please take a quick view at the [contribution guidelines](https://github.com/crisgarner/awesome-foundry/blob/main/CONTRIBUTING.md) first. 
 
 [//]: # (Thanks to all [contributors]&#40;https://github.com/crisgarner/awesome-foundry/graphs/contributors&#41;; you rock!)
 
