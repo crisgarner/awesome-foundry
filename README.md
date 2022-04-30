@@ -63,6 +63,8 @@ Solidity libraries or utilities that use Foundry.
 - [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) - Ethernaut puzzles solved & tested with foundry.
 - [Damn Vulnerable Defi - Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - The Damn Vulnerable Defi CTF using Foundry.
 - [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
+- [Foundry vs Hardhat](https://chainstack.com/foundry-hardhat-differences-performance/) - Differences in performance and developer experience.
+
 
 ## Projects Using Foundry
 - [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
