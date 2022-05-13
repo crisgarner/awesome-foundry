@@ -34,13 +34,13 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
 ## Tools
 Frameworks, plugins and utilities for Foundry.
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
+- [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
 - [Forge Template](https://github.com/FrankieIsLost/forge-template) - A template for quickly getting started with forge.
 - [Forge Standard Library](https://github.com/foundry-rs/forge-std/) - Collection of helpful contracts for use with forge and foundry.
 - [Forge GHA](https://github.com/foundry-rs/foundry-toolchain) - Simple Github Actions workflow to run forge test.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry.
-- [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
