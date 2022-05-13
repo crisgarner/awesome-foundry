@@ -40,7 +40,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge Standard Library](https://github.com/foundry-rs/forge-std/) - Collection of helpful contracts for use with forge and foundry.
 - [Forge GHA](https://github.com/foundry-rs/foundry-toolchain) - Simple Github Actions workflow to run forge test.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
-- [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry.
+- [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry. 
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
