@@ -42,6 +42,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
 - [Forge Snippets](https://github.com/crisgarner/VSCodeForgeSnippets) - VS Code Snippets for Forge.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry. 
+- [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds)- Sleek EIP2535 Diamond deployments on the go with foundry
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
