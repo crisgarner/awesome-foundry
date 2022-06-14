@@ -42,7 +42,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
 - [Forge Snippets](https://github.com/crisgarner/VSCodeForgeSnippets) - VS Code Snippets for Forge.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry. 
-- [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds)- Sleek EIP2535 Diamond deployments on the go with foundry
+- [Foundry Docgen](https://github.com/ZeframLou/foundry-docgen) - A basic tool for generating markdown docs for a Foundry project using existing NatSpec comments in the contracts.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
@@ -55,6 +55,8 @@ Solidity libraries or utilities that use Foundry.
 - [RollCall](https://github.com/withtally/rollcall) - Rollup Governance Libraries.
 - [Forge Optimism](https://github.com/tarrencev/forge-optimism) - Forge Optimism is a collection of helpful contracts for use with forge and foundry on Optimism.
 - [Yearn Strategy Foundry Mix](https://github.com/storming0x/foundry_strategy_mix) - Basic Solidity Smart Contract for creating your own Yearn Strategy.
+- [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds)- Sleek EIP2535 Diamond deployments on the go with foundry
+- [Founndry Lens Protocol](https://github.com/memester-xyz/lens-protocol#foundry-setup) - Lens Protocol fork that supports Foundry. 
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
