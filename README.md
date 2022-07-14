@@ -43,6 +43,8 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge Snippets](https://github.com/crisgarner/VSCodeForgeSnippets) - VS Code Snippets for Forge.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry. 
 - [Foundry Docgen](https://github.com/ZeframLou/foundry-docgen) - A basic tool for generating markdown docs for a Foundry project using existing NatSpec comments in the contracts.
+- [Foundry Hardhat Template](https://github.com/foundry-rs/hardhat-foundry-template) - Template repository for getting started quickly with Hardhat and Foundry in one project.
+- [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) -  A Foundry template to compile and test Vyper contracts.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
@@ -57,6 +59,10 @@ Solidity libraries or utilities that use Foundry.
 - [Yearn Strategy Foundry Mix](https://github.com/storming0x/foundry_strategy_mix) - Basic Solidity Smart Contract for creating your own Yearn Strategy.
 - [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds)- Sleek EIP2535 Diamond deployments on the go with foundry
 - [Founndry Lens Protocol](https://github.com/memester-xyz/lens-protocol#foundry-setup) - Lens Protocol fork that supports Foundry. 
+- [XChain](https://github.com/zobront/xchain) - Cross chain call library for Solidity & Foundry.
+- [Solenv](https://github.com/memester-xyz/solenv) - A dotenv parser for Solidity & Foundry.
+- [surl](https://github.com/memester-xyz/surl/) - HTTP library for Foundry tests in Solidity based on curl.
+- [unix](https://github.com/abigger87/unix) - A lightweight, extensible Foundry library for shell scripting.
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
@@ -69,6 +75,7 @@ Solidity libraries or utilities that use Foundry.
 - [Damn Vulnerable Defi - Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - The Damn Vulnerable Defi CTF using Foundry.
 - [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
 - [Foundry vs Hardhat](https://chainstack.com/foundry-hardhat-differences-performance/) - Differences in performance and developer experience.
+- [Smart Contract Development with Foundry](https://www.youtube.com/watch?v=uelA2U9TbgM) - Extended video tutorial on Foundry covering tests, deployments, cast usage, deploying to a live network.
 
 
 ## Projects Using Foundry
@@ -76,5 +83,6 @@ Solidity libraries or utilities that use Foundry.
 - [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
 - [Cryptex Finance](https://github.com/cryptexfinance/contracts) - Index token that tracks the total cryptocurrency market capitalization. (Optimism version uses Foundry tests).
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs. 
+- [Beefy Finance](https://github.com/beefyfinance/beefy-contracts) - Official repo for strategies and vaults from the Beefy yield optimizer.
 
 **[⬆ back to top](#awesome-foundry)**
