@@ -48,7 +48,7 @@ Frameworks, plugins and utilities for Foundry.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
-- [Solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+- [Solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [Chain Claim](https://github.com/botdad/chain-claim) - Solidity lib and helper scripts for providing claim code generation and on chain verification of a claim.
 - [Playpen](https://github.com/ZeframLou/playpen) - Set of modern, gas optimized staking pool contracts.
 - [TokenMigrator](https://github.com/ZeframLou/token-migrator) - A simple contract for migrating from an old ERC20 token to a new ERC20 token.
