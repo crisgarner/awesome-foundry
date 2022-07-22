@@ -45,6 +45,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Docgen](https://github.com/ZeframLou/foundry-docgen) - A basic tool for generating markdown docs for a Foundry project using existing NatSpec comments in the contracts.
 - [Foundry Hardhat Template](https://github.com/foundry-rs/hardhat-foundry-template) - Template repository for getting started quickly with Hardhat and Foundry in one project.
 - [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) -  A Foundry template to compile and test Vyper contracts.
+- [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
