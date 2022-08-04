@@ -65,6 +65,7 @@ Solidity libraries or utilities that use Foundry.
 - [surl](https://github.com/memester-xyz/surl/) - HTTP library for Foundry tests in Solidity based on curl.
 - [unix](https://github.com/abigger87/unix) - A lightweight, extensible Foundry library for shell scripting.
 - [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts) - This repository is a slimmed down version of Chainlink's official repo. It clones only the Chainlink contracts folder and the repo automatically updates every time there is a new NPM release.
+- [Upgradeable Contracts With OpenZeppelin and Foundry](https://github.com/jordaniza/OZ-Upgradeable-Foundry) - A minimal set of contracts showing how to implement UUPS and Transparent Upgradeable Proxy contracts using foundry, along with testing and deployment with Forge Script.
 
 ## Tutorials
 - [Getting Started by Crisgarner](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA) - Short intro tutorial for getting started. 
