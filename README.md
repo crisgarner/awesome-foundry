@@ -79,6 +79,9 @@ Solidity libraries or utilities that use Foundry.
 - [Getting Started (Chinese)](https://learnblockchain.cn/article/3502) - Getting started tutorial on Chinese.
 - [Foundry vs Hardhat](https://chainstack.com/foundry-hardhat-differences-performance/) - Differences in performance and developer experience.
 - [Smart Contract Development with Foundry](https://www.youtube.com/watch?v=uelA2U9TbgM) - Extended video tutorial on Foundry covering tests, deployments, cast usage, deploying to a live network.
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. 
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - To learn common smart contract vulnerabilities using Foundry. 
+
 
 
 ## Projects Using Foundry
