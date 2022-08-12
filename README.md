@@ -90,5 +90,6 @@ Solidity libraries or utilities that use Foundry.
 - [Cryptex Finance](https://github.com/cryptexfinance/contracts) - Index token that tracks the total cryptocurrency market capitalization. (Optimism version uses Foundry tests).
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs. 
 - [Beefy Finance](https://github.com/beefyfinance/beefy-contracts) - Official repo for strategies and vaults from the Beefy yield optimizer.
+- [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
 
 **[⬆ back to top](#awesome-foundry)**
