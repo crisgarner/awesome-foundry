@@ -46,7 +46,8 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Hardhat Template](https://github.com/foundry-rs/hardhat-foundry-template) - Template repository for getting started quickly with Hardhat and Foundry in one project.
 - [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) -  A Foundry template to compile and test Vyper contracts.
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
-- [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects
+- [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
+- [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
