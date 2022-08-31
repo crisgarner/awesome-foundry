@@ -35,6 +35,7 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
 Frameworks, plugins and utilities for Foundry.
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
+- [Foundry Hardhat TypeScript Template](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript that includes the Foundry toolkit.
 - [Foundry Template](https://github.com/ZeframLou/foundry-template) - A template for a Foundry project.
 - [Forge Template](https://github.com/FrankieIsLost/forge-template) - A template for quickly getting started with forge.
 - [Forge Standard Library](https://github.com/foundry-rs/forge-std/) - Collection of helpful contracts for use with forge and foundry.
