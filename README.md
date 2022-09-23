@@ -91,6 +91,7 @@ Solidity libraries or utilities that use Foundry.
 
 ## Projects Using Foundry
 - [OpenSea Seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a new marketplace protocol for safely and efficiently buying and selling NFTs.
+- [Optimism Contracts Bedrock](https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-bedrock) - This package contains the smart contracts that compose the on-chain component of Optimism's upcoming Bedrock upgrade.
 - [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
 - [Cryptex Finance](https://github.com/cryptexfinance/contracts) - Index token that tracks the total cryptocurrency market capitalization. (Optimism version uses Foundry tests).
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs. 
