@@ -49,6 +49,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
+- [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
 
 ## Libraries
 Solidity libraries or utilities that use Foundry.
@@ -86,6 +87,8 @@ Solidity libraries or utilities that use Foundry.
 - [Smart Contract Development with Foundry](https://www.youtube.com/watch?v=uelA2U9TbgM) - Extended video tutorial on Foundry covering tests, deployments, cast usage, deploying to a live network.
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. 
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - To learn common smart contract vulnerabilities using Foundry. 
+- [How to test a contract function a million times](https://www.notonlyowner.com/learn/how-to-test-a-smart-contract-function-a-million-times/) - Tutorial about testing a function of OpenZeppelin Contracts library using foundry fuzzing.
+- [forge inspect $CONTRACT Tweetstorm by @w1nt3r_eth](https://twitter.com/w1nt3r_eth/status/1579486967963693057) - Twitter thread about how to use forge inspect $CONTRACT ir-optimized.
 
 
 
@@ -97,5 +100,6 @@ Solidity libraries or utilities that use Foundry.
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs. 
 - [Beefy Finance](https://github.com/beefyfinance/beefy-contracts) - Official repo for strategies and vaults from the Beefy yield optimizer.
 - [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
+- [Uniswap V3 Development Book](https://uniswapv3book.com/) - Development book about Uniswap V3 built using Foundry.
 
 **[⬆ back to top](#awesome-foundry)**
