@@ -101,5 +101,6 @@ Solidity libraries or utilities that use Foundry.
 - [Beefy Finance](https://github.com/beefyfinance/beefy-contracts) - Official repo for strategies and vaults from the Beefy yield optimizer.
 - [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
 - [Uniswap V3 Development Book](https://uniswapv3book.com/) - Development book about Uniswap V3 built using Foundry.
+- [Uniswap Permit](https://github.com/Uniswap/permit2) - Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
 
 **[⬆ back to top](#awesome-foundry)**
