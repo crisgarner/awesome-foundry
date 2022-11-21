@@ -73,7 +73,7 @@ Solidity libraries or utilities that use Foundry.
 - [Forge Optimism](https://github.com/tarrencev/forge-optimism) - Forge Optimism is a collection of helpful contracts for use with forge and foundry on Optimism.
 - [Yearn Strategy Foundry Mix](https://github.com/storming0x/foundry_strategy_mix) - Basic Solidity Smart Contract for creating your own Yearn Strategy.
 - [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds)- Sleek EIP2535 Diamond deployments on the go with foundry
-- [Founndry Lens Protocol](https://github.com/memester-xyz/lens-protocol#foundry-setup) - Lens Protocol fork that supports Foundry.
+- [Foundry Lens Protocol](https://github.com/memester-xyz/lens-protocol#foundry-setup) - Lens Protocol fork that supports Foundry.
 - [XChain](https://github.com/zobront/xchain) - Cross chain call library for Solidity & Foundry.
 - [Solenv](https://github.com/memester-xyz/solenv) - A dotenv parser for Solidity & Foundry.
 - [surl](https://github.com/memester-xyz/surl/) - HTTP library for Foundry tests in Solidity based on curl.
