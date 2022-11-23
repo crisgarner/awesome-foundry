@@ -62,6 +62,7 @@ Frameworks, plugins and utilities for Foundry.
 
 Solidity libraries or utilities that use Foundry.
 
+- [Solidify](https://github.com/proofxyz/solidify) - solidify is a golang + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
 - [Solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [Chain Claim](https://github.com/botdad/chain-claim) - Solidity lib and helper scripts for providing claim code generation and on chain verification of a claim.
 - [Playpen](https://github.com/ZeframLou/playpen) - Set of modern, gas optimized staking pool contracts.
@@ -105,7 +106,6 @@ Solidity libraries or utilities that use Foundry.
 - [Art Gobblers](https://github.com/artgobblers/art-gobblers) - Contracts for
   Art Gobblers, the self-sustaining art factory, with custom ERC721
   implementation with VRGDAs, GOO integration and differential fuzzing.
-- [Solidify](https://github.com/proofxyz/solidify) - solidify is a golang + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
 - [OpenSea Seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a new marketplace protocol for safely and efficiently buying and selling NFTs.
 - [Optimism Contracts Bedrock](https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-bedrock) - This package contains the smart contracts that compose the on-chain component of Optimism's upcoming Bedrock upgrade.
 - [MapleLoan](https://github.com/maple-labs/loan) - Set of contracts to facilitate on-chain Loans between Maple Finance Pools and institutional borrowers.
