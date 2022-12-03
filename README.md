@@ -36,6 +36,7 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
 
 Frameworks, plugins and utilities for Foundry.
 
+- [Blacksmith](https://github.com/blacksmith-eth/blacksmith) - Blacksmith generates a simple frontend for interacting with smart contracts.
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
 - [Foundry Hardhat TypeScript Template](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript that includes the Foundry toolkit.
@@ -58,9 +59,9 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
 
-## Libraries
+## Libraries & Templates
 
-Solidity libraries or utilities that use Foundry.
+Solidity libraries, templates or utilities that use Foundry.
 
 - [Solidify](https://github.com/proofxyz/solidify) - solidify is a golang + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
 - [Solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
@@ -82,6 +83,8 @@ Solidity libraries or utilities that use Foundry.
 - [Chainlink Brownie Contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts) - This repository is a slimmed down version of Chainlink's official repo. It clones only the Chainlink contracts folder and the repo automatically updates every time there is a new NPM release.
 - [Upgradeable Contracts With OpenZeppelin and Foundry](https://github.com/jordaniza/OZ-Upgradeable-Foundry) - A minimal set of contracts showing how to implement UUPS and Transparent Upgradeable Proxy contracts using foundry, along with testing and deployment with Forge Script.
 - [Foundry Upgrades](https://github.com/odyslam/foundry-upgrades) - Helper smart contracts to deploy and manage upgradeable contracts on Ethereum.
+- [PRBMath](https://github.com/paulrberg/prb-math) -  Solidity library for advanced fixed-point math that operates with signed 59.18-decimal fixed-point and unsigned 60.18-decimal fixed-point numbers. 
+- [Foundry <> Python Differential Fuzz Testing template](https://github.com/kjr217/foundry-python-template) - A lot of financial quant work gets modelled in Python and sometimes these models needs to be implemented in Solidity to be used in a protocol.
 
 ## Tutorials
 
