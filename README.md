@@ -37,6 +37,7 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
 Frameworks, plugins and utilities for Foundry.
 
 - [Blacksmith](https://github.com/blacksmith-eth/blacksmith) - Blacksmith generates a simple frontend for interacting with smart contracts.
+- [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel) - Chisel is a fast, utilitarian, and verbose solidity REPL. It is heavily inspired by the incredible work done in soli and solidity-shell!
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
 - [Foundry Hardhat TypeScript Template](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript that includes the Foundry toolkit.
@@ -55,8 +56,9 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) - A Foundry template to compile and test Vyper contracts.
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
-- [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 - [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
+- [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
+- [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
 
 ## Libraries & Templates
@@ -103,6 +105,7 @@ Solidity libraries, templates or utilities that use Foundry.
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - To learn common smart contract vulnerabilities using Foundry.
 - [How to test a contract function a million times](https://www.notonlyowner.com/learn/how-to-test-a-smart-contract-function-a-million-times/) - Tutorial about testing a function of OpenZeppelin Contracts library using foundry fuzzing.
 - [forge inspect $CONTRACT Tweetstorm by @w1nt3r_eth](https://twitter.com/w1nt3r_eth/status/1579486967963693057) - Twitter thread about how to use forge inspect $CONTRACT ir-optimized.
+- [](https://twitter.com/PaulRBerg/status/1603057723985301507?utm_source=substack&utm_medium=email) - Fork testing with Foundry against a specific block number? by @PaulRBerg.
 - [Using Foundry to Explore Upgradeable Contracts (Part 1)](https://runtimeverification.com/blog/using-foundry-to-explore-upgradeable-contracts-part-1) - Using Foundry tests to illustrate the various techniques used to make contracts upgradeable.
 
 ## Projects Using Foundry
@@ -116,6 +119,7 @@ Solidity libraries, templates or utilities that use Foundry.
 - [Cryptex Finance](https://github.com/cryptexfinance/contracts) - Index token that tracks the total cryptocurrency market capitalization. (Optimism version uses Foundry tests).
 - [Gov of Venice](https://github.com/pentagonxyz/gov-of-venice) - Governance of Venice is a new paradigm in DAO governance, attempting to standardise the existence of functional groups within DAOs (Guilds) in terms of how they participate in the Governance process of different DAOs.
 - [Beefy Finance](https://github.com/beefyfinance/beefy-contracts) - Official repo for strategies and vaults from the Beefy yield optimizer.
+- [DeFi Hacks Reproduce - Foundry](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry.
 - [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
 - [Uniswap V3 Development Book](https://uniswapv3book.com/) - Development book about Uniswap V3 built using Foundry.
 - [Uniswap Permit](https://github.com/Uniswap/permit2) - Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
