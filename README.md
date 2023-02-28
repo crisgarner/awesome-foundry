@@ -26,7 +26,7 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
       - [_If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
   - [Content](#content)
   - [Tools](#tools)
-  - [Libraries](#libraries)
+  - [Libraries \& Templates](#libraries--templates)
   - [Tutorials](#tutorials)
   - [Projects Using Foundry](#projects-using-foundry)
 
@@ -93,6 +93,7 @@ Solidity libraries, templates or utilities that use Foundry.
 - [Foundry <> Python Differential Fuzz Testing template](https://github.com/kjr217/foundry-python-template) - A lot of financial quant work gets modelled in Python and sometimes these models needs to be implemented in Solidity to be used in a protocol.
 - [ChugSplash Foundry](https://github.com/chugsplash/chugsplash-foundry#readme) - A Foundry library for deploying and managing upgradeable smart contracts.
 - [Invariant Examples](https://github.com/lucas-manuel/invariant-examples#readme) - This repository functions as an accessible example for Foundry developers to experiment and learn about invariant testing.
+- [Foundry Multichain](https://github.com/timurguvenkaya/foundry-multichain) - This repo provides an example of a multichain Solidity Deployment/Upgradability script pattern. 
 
 ## Tutorials
 
