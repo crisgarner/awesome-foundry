@@ -57,13 +57,16 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) - A Foundry template to compile and test Vyper contracts.
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
 - [Foundry toolchain Action](https://github.com/foundry-rs/foundry-toolchain) - This GitHub Action installs Foundry, the blazing fast, portable and modular toolkit for Ethereum application development. 
-- [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
+- [Foundry zkSync Era](https://github.com/omurovec/foundry-zksync-era) - This plugin allows for the compilation & deployment of contracts to the zkSync Era network within a foundry project.
+- [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
+- [Vulcan](https://github.com/nomoixyz/vulcan) - Development framework for Foundry projects, with a focus on developer experience and readability.
+
 
 ## Libraries & Templates
 
@@ -94,6 +97,9 @@ Solidity libraries, templates or utilities that use Foundry.
 - [ChugSplash Foundry](https://github.com/chugsplash/chugsplash-foundry#readme) - A Foundry library for deploying and managing upgradeable smart contracts.
 - [Invariant Examples](https://github.com/lucas-manuel/invariant-examples#readme) - This repository functions as an accessible example for Foundry developers to experiment and learn about invariant testing.
 - [Foundry Multichain](https://github.com/timurguvenkaya/foundry-multichain) - This repo provides an example of a multichain Solidity Deployment/Upgradability script pattern. 
+- [Foundry Vulcan Template](https://github.com/nomoixyz/vulcan-template) - This repository is a template for smart contract projects based on Foundry. It includes Vulcan to make your life easier when writing tests and scripts.
+- [Foundry Safer Log](https://github.com/Philogy/forge-safe-log) - The safelog library provides a foundry/hardhat like console logging interface whereby the individual log functions do not modify the state of memory.
+
 
 ## Tutorials
 
@@ -116,7 +122,6 @@ Solidity libraries, templates or utilities that use Foundry.
 - [Using Foundry to Explore Upgradeable Contracts (Part 1)](https://runtimeverification.com/blog/using-foundry-to-explore-upgradeable-contracts-part-1) - Using Foundry tests to illustrate the various techniques used to make contracts upgradeable.
 - [Foundry Best Practices](https://book.getfoundry.sh/tutorials/best-practices) - This guide documents the suggested best practices when developing with Foundry. In general, it's recommended to handle as much as possible with forge fmt, and anything this doesn't handle is below.
 - [Invariant Testing WETH With Foundry](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw) - In this short guide, we'll write invariant tests from the ground up for Wrapped Ether, one of the most important contracts on mainnet.
-
 
 
 ## Projects Using Foundry
