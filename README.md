@@ -76,6 +76,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Foundry Hardhat TypeScript Template](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript that includes the Foundry toolkit.
 - [Foundry Vulcan Template](https://github.com/nomoixyz/vulcan-template) - This repository is a template for smart contract projects based on Foundry. It includes Vulcan to make your life easier when writing tests and scripts.
 - [Foundry <> Python Differential Fuzz Testing template](https://github.com/kjr217/foundry-python-template) - A lot of financial quant work gets modelled in Python and sometimes these models needs to be implemented in Solidity to be used in a protocol.
+- [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity Libraries.
 - [Solidify](https://github.com/proofxyz/solidify) - solidify is a golang + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.
 - [Solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [Chain Claim](https://github.com/botdad/chain-claim) - Solidity lib and helper scripts for providing claim code generation and on chain verification of a claim.
