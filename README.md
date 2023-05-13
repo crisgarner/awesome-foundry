@@ -125,6 +125,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Using Foundry to Explore Upgradeable Contracts (Part 1)](https://runtimeverification.com/blog/using-foundry-to-explore-upgradeable-contracts-part-1) - Using Foundry tests to illustrate the various techniques used to make contracts upgradeable.
 - [Foundry Best Practices](https://book.getfoundry.sh/tutorials/best-practices) - This guide documents the suggested best practices when developing with Foundry. In general, it's recommended to handle as much as possible with forge fmt, and anything this doesn't handle is below.
 - [Invariant Testing WETH With Foundry](https://mirror.xyz/horsefacts.eth/Jex2YVaO65dda6zEyfM_-DXlXhOWCAoSpOx5PLocYgw) - In this short guide, we'll write invariant tests from the ground up for Wrapped Ether, one of the most important contracts on mainnet.
+- [Tic Tac Token](https://book.tictactoken.co/) - Tic Tac Token will teach you Foundry from the ground up while you create Tic Tac Toe and learn how to write and test Solidity smart contracts using Foundry.
 
 
 ## Projects Using Foundry
