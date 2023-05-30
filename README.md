@@ -26,7 +26,7 @@ Please take a quick view at the [contribution guidelines](https://github.com/cri
       - [_If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
   - [Content](#content)
   - [Tools](#tools)
-  - [Libraries \& Templates](#templates--libraries)
+  - [Templates \& Libraries](#templates--libraries)
   - [Tutorials](#tutorials)
   - [Projects Using Foundry](#projects-using-foundry)
 
@@ -102,6 +102,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Invariant Examples](https://github.com/lucas-manuel/invariant-examples#readme) - This repository functions as an accessible example for Foundry developers to experiment and learn about invariant testing.
 - [Foundry Multichain](https://github.com/timurguvenkaya/foundry-multichain) - This repo provides an example of a multichain Solidity Deployment/Upgradability script pattern. 
 - [Foundry Safer Log](https://github.com/Philogy/forge-safe-log) - The safelog library provides a foundry/hardhat like console logging interface whereby the individual log functions do not modify the state of memory.
+- [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry implementation of EIP2535 Diamond standard. 
 
 
 ## Tutorials
