@@ -132,6 +132,7 @@ Solidity templates, libraries or utilities that use Foundry.
 
 ## Projects Using Foundry
 
+- [0xHacked](https://github.com/0xHackedLabs/zkProver) - A trustless bug bounty platform built on zero-knowledge proof, where the whitehat can submit the proof of exploit to claim a bug bounty without disclosing any details. We referred to the implementation of Foundry.
 - [Art Gobblers](https://github.com/artgobblers/art-gobblers) - Contracts for
   Art Gobblers, the self-sustaining art factory, with custom ERC721
   implementation with VRGDAs, GOO integration and differential fuzzing.
