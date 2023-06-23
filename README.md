@@ -46,6 +46,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge GHA](https://github.com/foundry-rs/foundry-toolchain) - Simple Github Actions workflow to run forge test.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
 - [Forge Safe](https://github.com/ind-igo/forge-safe) - Forge Safe lets Forge users build Gnosis Safe batch transactions using Forge scripting in Solidity. 
+- [Forge Safer](https://github.com/ind-igo/forge-safe) - Safer lets users to create transactions on a Safe without relying on Safe's backend, improving resiliency of Safe multisigs.
 - [Forge Snippets](https://github.com/crisgarner/VSCodeForgeSnippets) - VS Code Snippets for Forge.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry.
 - [Foundry Docgen](https://github.com/ZeframLou/foundry-docgen) - A basic tool for generating markdown docs for a Foundry project using existing NatSpec comments in the contracts.
