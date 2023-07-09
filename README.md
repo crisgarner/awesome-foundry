@@ -48,6 +48,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Forge Safe](https://github.com/ind-igo/forge-safe) - Forge Safe lets Forge users build Gnosis Safe batch transactions using Forge scripting in Solidity. 
 - [Forge Safer](https://github.com/morpho-labs/safer) - Safer lets users to create transactions on a Safe without relying on Safe's backend, improving resiliency of Safe multisigs.
 - [Forge Snippets](https://github.com/crisgarner/VSCodeForgeSnippets) - VS Code Snippets for Forge.
+- [ForGePT](https://forgept.apoorv.xyz/) - AI bot to provide support and answer foundry related questions.
 - [Foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting (declarative?) language to implement a basic deployment pipeline using foundry.
 - [Foundry Docgen](https://github.com/ZeframLou/foundry-docgen) - A basic tool for generating markdown docs for a Foundry project using existing NatSpec comments in the contracts.
 - [Foundry Gas Diff Reporter](https://github.com/Rubilmax/foundry-gas-diff)
