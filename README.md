@@ -107,6 +107,8 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Foundry Safer Log](https://github.com/Philogy/forge-safe-log) - The safelog library provides a foundry/hardhat like console logging interface whereby the individual log functions do not modify the state of memory.
 - [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry implementation of EIP2535 Diamond standard. 
 - [balance-snapshot](https://github.com/pilagod/balance-snapshot) - A Solidity library to improve balance change check in Foundry tests.
+- [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+
 
 
 ## Tutorials
