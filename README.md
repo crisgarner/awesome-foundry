@@ -118,6 +118,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Getting Started by What The Func?](https://youtu.be/wqFnif_6Mbc) - Video tutorial.
 - [How to Foundry with Brock Elmore](https://www.youtube.com/watch?v=Rp_V7bYiTCM) - YouTube live code tutorial on how to get started with Foundry.
 - [Foundry Book](https://book.getfoundry.sh/) - A book on all things Foundry.
+- [Learn Solidity, Blockchain Development, & Smart Contracts] (https://www.youtube.com/watch?v=umepbfKp5rI&ab_channel=PatrickCollins) - Full introduction course into all of the core concepts related to blockchain, smart contracts, Solidity, ERC20s, full-stack Web3 dapps, decentralized finance (DeFi), Chainlink, Ethereum, upgradable smart contracts, DAOs, aave, IPFS, and more; everything build with Foundry. Video 1 out of 3.
 - [Mainnet Forking](https://mirror.xyz/susheen.eth/bRCzT2QLdNINMVk8251udkfjHW_T9ascCQ1DV9hURz0) - This article teaches how to run a locally simulate a swap on Uniswap.
 - [Ethernaut x Foundry](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) - Ethernaut puzzles solved & tested with foundry.
 - [Damn Vulnerable Defi - Foundry Version](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - The Damn Vulnerable Defi CTF using Foundry.
