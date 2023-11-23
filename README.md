@@ -41,7 +41,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel) - Chisel is a fast, utilitarian, and verbose solidity REPL. It is heavily inspired by the incredible work done in soli and solidity-shell!
 - [Foundryup](https://github.com/foundry-rs/foundry/tree/master/foundryup) - Update or revert to a specific Foundry branch with ease.
 - [Foundry Hardhat](https://github.com/foundry-rs/hardhat) - Hardhat plugins to use foundry tools in hardhat environments.
-
+- [Forge Deploy](https://github.com/wighawag/forge-deploy) - A cli and associated contracts to keep track of deployments by name and reuse them in solidity. It tries to keep compatibility with hardhat-deploy as far as possible (work in progress).
 - [Forge Standard Library](https://github.com/foundry-rs/forge-std/) - Collection of helpful contracts for use with forge and foundry.
 - [Forge GHA](https://github.com/foundry-rs/foundry-toolchain) - Simple Github Actions workflow to run forge test.
 - [Forge Replit](https://replit.com/@wilsonc/VanillaForge) - Run Forge in the browser, vanilla setup.
