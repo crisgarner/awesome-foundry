@@ -73,6 +73,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Zefram's Foundry Template](https://github.com/ZeframLou/foundry-template) - @ZeframLou's Foundry template.
 - [Paul's Foundry Template](https://github.com/PaulRBerg/foundry-template) - @PaulRBerg's Foundry template.
 - [Frankie's Forge Template](https://github.com/FrankieIsLost/forge-template) - @FrankieIsLost's template for quickly getting started with Forge.
+- [Immunefi's PoC Templates](https://github.com/immunefi-team/forge-poc-templates) - @Immunefi-team's templates for quickly getting started with a proof of concept for testing vulnerabilities.
 - [Foundry Hardhat Template](https://github.com/foundry-rs/hardhat-foundry-template) - Template repository for getting started quickly with Hardhat and Foundry in one project.
 - [Foundry Vyper](https://github.com/0xKitsune/Foundry-Vyper) - A Foundry template to compile and test Vyper contracts.
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Foundry Starter Kit is a repo that shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there.
