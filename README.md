@@ -56,6 +56,7 @@ Frameworks, plugins and utilities for Foundry.
   of your Pull Requests.
 - [Foundry toolchain Action](https://github.com/foundry-rs/foundry-toolchain) - This GitHub Action installs Foundry, the blazing fast, portable and modular toolkit for Ethereum application development. 
 - [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
+- [Forge Proposal Simulator](https://github.com/solidity-labs-io/forge-proposal-simulator) - A tool to write, simulate and test governance proposals.
 - [Foundry zkSync Era](https://github.com/matter-labs/foundry-zksync) - This repository provides Foundry functionality in Solidity for compiling, deploying, and interacting with smart contracts on zkSync Era.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
