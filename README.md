@@ -65,6 +65,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
 - [Vulcan](https://github.com/nomoixyz/vulcan) - Development framework for Foundry projects, with a focus on developer experience and readability.
+- [Ethui](https://ethui.dev/) - Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil. It streamlines smart contract testing, identity management, and dApp connectivity for developers.
 
 
 ## Templates & Libraries
