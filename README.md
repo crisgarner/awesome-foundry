@@ -58,6 +58,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Foundry Canary](https://github.com/ZeframLou/foundry-canary) - A minimal foundry repo setup for examples and finding bugs.
 - [Forge Proposal Simulator](https://github.com/solidity-labs-io/forge-proposal-simulator) - A tool to write, simulate and test governance proposals.
 - [Foundry zkSync Era](https://github.com/matter-labs/foundry-zksync) - This repository provides Foundry functionality in Solidity for compiling, deploying, and interacting with smart contracts on zkSync Era.
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager — one `.env` works across Hardhat, Foundry, viem, and ethers. Auto-detects `foundry.toml`, parses RPC endpoints and etherscan keys.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
