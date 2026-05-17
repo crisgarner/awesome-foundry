@@ -62,6 +62,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
+- [Phoenix Foundry](https://github.com/kant19801201behax5/phoenix-foundry) - Pre-flight network check for Foundry/Anvil fork simulations. Fetches live L2 telemetry (RTT p99, revert ratio, gas pressure) and warns when sequencer conditions make simulation results unreliable. Zero dependencies, stdlib only.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
 - [Vulcan](https://github.com/nomoixyz/vulcan) - Development framework for Foundry projects, with a focus on developer experience and readability.
