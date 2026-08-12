@@ -61,6 +61,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
+- [OpenChainBench](https://openchainbench.com) - Benchmark RPC providers for Foundry workflows: latency, stale-state detection, and archive depth across 20+ chains. Helps choose the fastest endpoint for fork tests and cast calls.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
