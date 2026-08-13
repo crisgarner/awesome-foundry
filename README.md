@@ -154,5 +154,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
 - [Uniswap V3 Development Book](https://uniswapv3book.com/) - Development book about Uniswap V3 built using Foundry.
 - [Uniswap Permit](https://github.com/Uniswap/permit2) - Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
+- [BlazePhoenix DEX](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex) - On-chain DEX aggregator where quoting and execution run through the same contract functions, so a route is priced by the code that fills it. Foundry throughout: unit, fuzz and stateful-invariant suites, fork tests against live venues, an EIP-170 size guard in CI, and Halmos symbolic proofs wired as merge-blocking gates.
+- [BlazePhoenix Staking](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Staking) - Single-asset staking whose solvency is a revert condition rather than a dashboard. Beyond the Foundry unit/fuzz/invariant suites it runs nine real-EVM suites against the compiled contract offline, including an adversarial suite and a self-audit that treats each past remediation as a suspect.
 
 **[⬆ back to top](#awesome-foundry)**
