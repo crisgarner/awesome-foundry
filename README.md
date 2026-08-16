@@ -154,5 +154,6 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Tokenlon](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol.
 - [Uniswap V3 Development Book](https://uniswapv3book.com/) - Development book about Uniswap V3 built using Foundry.
 - [Uniswap Permit](https://github.com/Uniswap/permit2) - Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
+- [Aeon](https://github.com/aeonfun/aeon) - Autonomous agent framework that uses Foundry to deploy and test Uniswap v4 hooks.
 
 **[⬆ back to top](#awesome-foundry)**
