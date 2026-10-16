@@ -156,3 +156,5 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Uniswap Permit](https://github.com/Uniswap/permit2) - Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
 
 **[⬆ back to top](#awesome-foundry)**
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Skill / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure `SKILL.md` and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with Foundry EIP-1153 transient-storage smart contracts (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`), 0%-fee Morpho Blue flash-loan execution, and on-chain Merkle commitments for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
