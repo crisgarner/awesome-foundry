@@ -61,6 +61,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Femplate](https://github.com/abigger87/femplate/) - Robust Template for Foundry Projects.
 - [Halmos](https://github.com/a16z/halmos#readme) - Symbolic Bounded Model Checker for Ethereum Smart Contracts Bytecode
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
+- [oksolc](https://github.com/okcontract/oksolc) - Solidity compiler written in Zig that Forge runs in place of solc once foundry.toml points to it, for projects built with via-IR and the optimizer.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
