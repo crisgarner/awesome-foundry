@@ -63,6 +63,7 @@ Frameworks, plugins and utilities for Foundry.
 - [Hardhat Foundry](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0) - This plugin makes it easier to use Hardhat and Foundry in the same project. You can use it both for adding Foundry to an existing Hardhat project, and to add Hardhat to an existing Foundry project.
 - [Paradigm CTF Template](https://github.com/zobront/paradigm-ctf) - Template for efficient paradigm ctf testing & scripts.
 - [Quick POC](https://github.com/zobront/quickpoc) - easy POC template generation from the command line.
+- [Realism Gate](https://github.com/KhomDev/realism-gate) - Static checker for Foundry PoC tests that flags privileged pranks, cheatcode storage writes and assertions that cannot fail.
 - [Solplot](https://github.com/0xClandestine/solplot) - A Foundry plugin that enables you to plot charts within solidity.
 - [Vulcan](https://github.com/nomoixyz/vulcan) - Development framework for Foundry projects, with a focus on developer experience and readability.
 
