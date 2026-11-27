@@ -110,6 +110,7 @@ Solidity templates, libraries or utilities that use Foundry.
 - [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry implementation of EIP2535 Diamond standard. 
 - [balance-snapshot](https://github.com/pilagod/balance-snapshot) - A Solidity library to improve balance change check in Foundry tests.
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+- [Uniswap v4 Hook Verifier](https://github.com/a5768549/uniswap-v4-hook-verifier) - Standalone EIP-1014 `CREATE2` salt verifier and 14-bit Uniswap v4 Hook permission bit decoder for Foundry hook deployments ([client-side web decoder](https://trxvanity.xyz/tools/uniswap-v4-hook-decoder)).
 
 
 
